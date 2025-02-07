@@ -1,1 +1,9 @@
+Scopus search:
+TITLE ( "digital twin" OR "digital twins" ) AND PUBYEAR > 2015 AND PUBYEAR < 2025 AND ( LIMIT-TO ( DOCTYPE , "ar" ) ) AND ( LIMIT-TO ( LANGUAGE , "English" ) )
 
+Scopus search:
+( TITLE ( "digital twin" OR "digital twins" ) AND TITLE-ABS-KEY ( manufacture OR manufacturing OR industry OR industries ) ) AND PUBYEAR > 2015 AND PUBYEAR < 2025 AND ( LIMIT-TO ( DOCTYPE , "ar" ) ) AND ( LIMIT-TO ( LANGUAGE , "English" ) )
+
+Scopus search:
+
+( TITLE ( "digital twin" OR "digital twins" ) AND TITLE-ABS-KEY ( "Cost reduction" OR "Productivity" OR "Supply chain" OR "Revenue" OR "Investment" OR "Financial impact" OR "Sustainability" OR "Optimization" OR "Efficiencies" OR "Asset utilization" OR "Manufacturing cost" OR "Industry 4.0" OR "Lifecycle analysis" OR "Efficiency" OR "Profitability" OR "Waste reduction" OR "Value creation" ) ) AND PUBYEAR > 2015 AND PUBYEAR < 2025 AND ( LIMIT-TO ( DOCTYPE , "ar" ) ) AND ( LIMIT-TO ( LANGUAGE , "English" ) )
